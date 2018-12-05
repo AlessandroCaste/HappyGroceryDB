@@ -1,0 +1,12 @@
+{"products":[
+   {"barcode":"1234567890100","category":"FOOD","name":"Fragole","price":"30f","weight":"0.4f"},
+   {"barcode":"1234567890101","category":"FOOD","name":"PizzaMargherita","price":"10f","weight":"0.6f"},
+    {"barcode":"1234567890102","category":"FOOD","name":"Fettine di Tacchino","price":"30f","weight":"0.4f"},
+    {"barcode":"1234567890103","category":"BEVERAGE","name":"Coca-Cola 2L","price":"3f","weight":"2f"},
+    {"barcode":"1234567890104","category":"BEVERAGE","name":"Chianti Felsina","price":"30f","weight":"1f"},
+    {"barcode":"1234567890105","category":"KIDS","name":"Faber Castell Matite","price":"44f","weight":"0.3f"},
+    {"barcode":"1234567890107","category":"KIDS","name":"Biberon MAM 2x","price":"20f","weight":"0.8f"},
+    {"barcode":"1234567890108","category":"HOME","name":"Swiffer","price":"5f","weight":"0.3f"},
+    {"barcode":"1234567890109","category":"CLOTHING","name":"White Shirt Man L x3","price":"15f","weight":"0.6f"},
+    {"barcode":"1234567890110","category":"OTHER","name":"Cover MOTO Z","price":"10f","weight":"0.1f"}
+]}
