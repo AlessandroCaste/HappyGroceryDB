@@ -1,5 +1,5 @@
 {"products":[
-   {"barcode":"501234567890","category":"FOOD","name":"Fragole","price":"30f","weight":"0.4f"},
+   {"barcode":"5012345678900","category":"FOOD","name":"Fragole","price":"30f","weight":"0.4f"},
    {"barcode":"1234567890101","category":"FOOD","name":"PizzaMargherita","price":"10f","weight":"0.6f"},
     {"barcode":"1234567890102","category":"FOOD","name":"Fettine di Tacchino","price":"30f","weight":"0.4f"},
     {"barcode":"1234567890103","category":"BEVERAGE","name":"Coca-Cola 2L","price":"3f","weight":"2f"},
