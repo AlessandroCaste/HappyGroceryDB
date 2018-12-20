@@ -10,8 +10,8 @@
 					"weight": "0.4f"
                 },
                 {
-                    "barcode": "5012345678900",
-                    "category": "FOOD",
+                    "barcode": "1232345678900",
+                    "category": "FOODORA",
                     "name": "Fragole",
                     "price": "30f",
                     "weight": "0.4f"
