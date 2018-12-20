@@ -1,22 +1,19 @@
 {
-    "store" : [
-        { "id" : 1,
-            "products" : [
-                {
-                    "barcode": "5012345678900",
-					"category": "FOOD",
-					"name": "Fragole",
-					"price": "30f",
-					"weight": "0.4f"
-                },
-                {
-                    "barcode": "1232345678900",
-                    "category": "FOODORA",
-                    "name": "Fragole",
-                    "price": "30f",
-                    "weight": "0.4f"
-                }
-            ]
-       }
-    ]
+  "id": 1,
+  "products": [
+    {
+      "barcode": "5012345678900",
+      "category": "FOOD",
+      "name": "Fragole",
+      "price": "30f",
+      "weight": "0.4f"
+    },
+    {
+      "barcode": "1232345678900",
+      "category": "FOODORA",
+      "name": "Fragole",
+      "price": "30f",
+      "weight": "0.4f"
+    }
+  ]
 }
