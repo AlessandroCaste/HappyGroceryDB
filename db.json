@@ -1,6 +1,7 @@
 {
 	"stores": [{
 		"store1": {
+			"id" : 1,
 			"products": [{
 					"barcode": "5012345678900",
 					"category": "FOOD",
@@ -74,6 +75,7 @@
 			]
 		},
 		"store2": {
+			"id" : 2,
 			"products": [{
 					"barcode": "5012345678900",
 					"category": "FOOD",
@@ -147,6 +149,7 @@
 			]
 		},
 		"store3": {
+			"id" : 3,
 			"products": [{
 					"barcode": "5012345678900",
 					"category": "FOOD",
