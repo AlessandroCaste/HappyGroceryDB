@@ -1,19 +1,29 @@
-{
-  "id": 1,
-  "products": [
+{ 
+  "first_name" : "Sammy",
+  "last_name" : "Shark",
+  "location" : "Ocean",
+  "websites" : [ 
     {
-      "barcode": "5012345678900",
-      "category": "FOOD",
-      "name": "Fragole",
-      "price": "30f",
-      "weight": "0.4f"
+      "description" : "work",
+      "URL" : "https://www.digitalocean.com/"
     },
     {
-      "barcode": "1232345678900",
-      "category": "FOODORA",
-      "name": "Fragole",
-      "price": "30f",
-      "weight": "0.4f"
+      "desciption" : "tutorials",
+      "URL" : "https://www.digitalocean.com/community/tutorials"
+    }
+  ],
+  "social_media" : [
+    {
+      "description" : "twitter",
+      "link" : "https://twitter.com/digitalocean"
+    },
+    {
+      "description" : "facebook",
+      "link" : "https://www.facebook.com/DigitalOceanCloudHosting"
+    },
+    {
+      "description" : "github",
+      "link" : "https://github.com/digitalocean"
     }
   ]
 }
