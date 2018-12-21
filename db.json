@@ -1,21 +1,37 @@
 {
-  "stores": [
-    {"Esselunga" : [
-      {              
-          "barcode": "5012345678900",
+	"stores": [{
+			"Esselunga": [{
+					"barcode": "5012345678900",
 					"category": "FOOD",
 					"name": "Fragole",
 					"price": "30f",
 					"weight": "0.4f"
-      },
-      {
-          "barcode": "5012345678901",
-          "category": "FOOD",
-          "name": "Fragole",
-          "price": "30f",
-          "weight": "0.4f"
-      }
-   ]
-    }
-    ]
-}
+				},
+				{
+					"barcode": "5012345678901",
+					"category": "FOOD",
+					"name": "Fragole",
+					"price": "30f",
+					"weight": "0.4f"
+				}
+			]
+		},
+		{
+			"Esselunga2": [{
+					"barcode": "5012345678900",
+					"category": "FOOD",
+					"name": "Fragole",
+					"price": "30f",
+					"weight": "0.4f"
+				},
+				{
+					"barcode": "5012345678901",
+					"category": "FOOD",
+					"name": "Fragole",
+					"price": "30f",
+					"weight": "0.4f"
+				}
+            ]
+        }
+		]
+	}
