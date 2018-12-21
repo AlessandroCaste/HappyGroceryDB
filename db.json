@@ -1,6 +1,7 @@
 {
 	"stores": [{
-			"Esselunga": [{
+			"id" : 1,
+			"products" : [{
 					"barcode": "5012345678900",
 					"category": "FOOD",
 					"name": "Fragole",
